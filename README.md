@@ -1,6 +1,6 @@
 # vue-news-project
 
-> A Vue.js project
+> A Vue.js project(app)
 
 ## Build Setup
 
